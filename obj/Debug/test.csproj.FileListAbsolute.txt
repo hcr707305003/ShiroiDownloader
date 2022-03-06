@@ -1,0 +1,11 @@
+D:\Desktop\shiroiC#Desktop\test\bin\Debug\test.exe.config
+D:\Desktop\shiroiC#Desktop\test\bin\Debug\test.exe
+D:\Desktop\shiroiC#Desktop\test\bin\Debug\test.pdb
+D:\Desktop\shiroiC#Desktop\test\obj\Debug\test.csproj.AssemblyReference.cache
+D:\Desktop\shiroiC#Desktop\test\obj\Debug\test.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\shiroiC#Desktop\test\obj\Debug\test.Form1.resources
+D:\Desktop\shiroiC#Desktop\test\obj\Debug\test.Properties.Resources.resources
+D:\Desktop\shiroiC#Desktop\test\obj\Debug\test.csproj.GenerateResource.cache
+D:\Desktop\shiroiC#Desktop\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\Desktop\shiroiC#Desktop\test\obj\Debug\test.exe
+D:\Desktop\shiroiC#Desktop\test\obj\Debug\test.pdb
